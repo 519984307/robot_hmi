@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec ${${PROJECT_NAME}_VENV_DEVEL_DIR}/bin/python ${program_path} "$@"
